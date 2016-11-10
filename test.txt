@@ -1,3 +1,10 @@
 hey gator
+<<<<<<< HEAD
 hey ben
 Conflict
+||||||| merged common ancestors
+hey ben
+=======
+hey ben
+im going to mess it up
+>>>>>>> origin/master
